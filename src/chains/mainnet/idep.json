@@ -1,0 +1,19 @@
+{
+    "chain_name": "idep",
+    "coingecko": "",
+    "api": ["https://api.idep.nodestake.top", "https://api.idep.sgtstake.com", "https://services.staketab.com/idep-api"],
+    "rpc": ["https://rpc.idep.nodestake.top", "https://rpc.idep.sgtstake.com", "https://services.staketab.com/idep-rpc"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.4",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "idep",
+    "logo": "/logos/idep.png",
+    "assets": [{
+        "base": "idep",
+        "symbol": "IDEP",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/idep.png"
+    }]
+}

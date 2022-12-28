@@ -1,0 +1,19 @@
+{
+    "chain_name": "dyson",
+    "api": [
+        "https://dyson.api.trivium.network:1317"
+    ],
+    "rpc": ["https://dyson.api.trivium.network:26657"],
+    "sdk_version": "0.46.2",
+    "coin_type": "118",
+    "min_tx_fee": "1",
+    "addr_prefix": "dys",
+    "logo": "/logos/dyson.png",
+    "assets": [{
+        "base": "dys",
+        "symbol": "DYS",
+        "exponent": "0",
+        "coingecko_id": "", 
+        "logo": "/logos/dyson.png"
+    }]
+}

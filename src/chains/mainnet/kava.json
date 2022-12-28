@@ -1,8 +1,8 @@
 {
     "chain_name": "kava",
     "coingecko": "kava",
-    "api": "https://api.data.kava.io",
-    "rpc": ["https://rpc.kava.io:443", "https://rpc.kava.io:443"],
+    "api": ["https://kava.api.trivium.network:1317", "https://api.data.kava.io"],
+    "rpc": ["https://kava.api.trivium.network:26657", "https://rpc.kava.io:443", "https://rpc.kava.io:443"],
     "snapshot_provider": "",
     "sdk_version": "0.45.4",
     "coin_type": "118",
