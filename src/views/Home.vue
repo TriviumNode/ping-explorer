@@ -5,15 +5,19 @@
       <div class="d-flex justify-content-center align-items-center">
         <vuexy-logo />
         <h1
-          class="text-primary display-4 font-weight-bolder d-none d-md-block"
+          class="text-primary display-4 font-weight-bolder d-none d-md-block mx-2"
         >
-          Ping Dashboard<small class="flow-left">Beta</small>
+          Trivium Dashboard<small class="flow-left">Beta</small>
         </h1>
       </div>
     </b-link>
 
     <p class="mb-1">
-      Ping Dashboard is not just an explorer but also a wallet and more ... 🛠
+      Powered by <a
+        href="https://github.com/ping-pub/explorer"
+        target="_blank"
+        rel="noreferrer noopener"
+      >Ping.Pub Explorer</a>
     </p>
     <h2 class="mb-3">
       Cosmos Ecosystem Blockchains 🚀
