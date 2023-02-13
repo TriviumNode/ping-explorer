@@ -1,0 +1,20 @@
+{
+  "chain_name": "oraichain",
+  "api": [ "http://lcd.orai.io", "https://rest-oraichain.vchain.zone"  ],
+  "rpc": [ "https://rpc.orai.io:443", "https://rpc-oraichain.vchain.zone:443" ],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.10",
+  "coin_type": "118",
+  "min_tx_fee": "400",
+  "addr_prefix": "orai",
+  "logo": "/logos/oraichain.svg",
+  "assets": [
+    {
+      "base": "orai",
+      "symbol": "ORAI",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/oraichain.svg"
+    }
+  ]
+}
