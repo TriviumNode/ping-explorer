@@ -1,13 +1,13 @@
 {
     "chain_name": "bonusblock",
     "coingecko": "",
-    "api": [ "https://bonusblock-testnet.alter.network/rest", "https://bonusblock-lcd.mgmt.trivium.network" ],
-    "rpc": [ "https://bonusblock-testnet.alter.network:443", "https://bonusblock-rpc.mgmt.trivium.network:443" ],
+    "api": [ "https://bonusblock-lcd.mgmt.trivium.network", "https://bonusblock-testnet.alter.network/rest" ],
+    "rpc": [ "https://bonusblock-rpc.mgmt.trivium.network:443", "https://bonusblock-testnet.alter.network:443" ],
     "snapshot_provider": "",
     "sdk_version": "0.45.11",
     "coin_type": "118",
     "min_tx_fee": "0",
-    "addr_prefix": "ubonus",
+    "addr_prefix": "bonus",
     "logo": "",
     "assets": [{
         "base": "ubonus",
