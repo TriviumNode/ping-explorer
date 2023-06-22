@@ -1,0 +1,19 @@
+{
+    "chain_name": "constantine",
+    "api": [
+        "https://api.constantine.archway.tech"
+    ],
+    "rpc": ["https://rpc.constantine.archway.tech"],
+    "sdk_version": "0.45.16",
+    "coin_type": "118",
+    "min_tx_fee": "1",
+    "addr_prefix": "archway",
+    "logo": "",
+    "assets": [{
+        "base": "aconst",
+        "symbol": "CONST",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": ""
+    }]
+}
