@@ -8,12 +8,12 @@
     "coin_type": "118",
     "min_tx_fee": "1",
     "addr_prefix": "archway",
-    "logo": "",
+    "logo": "/logos/archway.png",
     "assets": [{
         "base": "aconst",
         "symbol": "CONST",
         "exponent": "18",
         "coingecko_id": "", 
-        "logo": ""
+        "logo": "/logos/archway.png"
     }]
 }
