@@ -1,8 +1,8 @@
 {
     "chain_name": "idep",
     "coingecko": "",
-    "api": ["https://api.idep.nodestake.top", "https://api.idep.sgtstake.com", "https://services.staketab.com/idep-api"],
-    "rpc": ["https://rpc.idep.nodestake.top", "https://rpc.idep.sgtstake.com", "https://services.staketab.com/idep-rpc"],
+    "api": ["https://idep.api.trivium.network:1317", "https://api.idep.nodestake.top", "https://api.idep.sgtstake.com", "https://services.staketab.com/idep-api"],
+    "rpc": ["https://idep.api.trivium.network:26657", "https://rpc.idep.nodestake.top", "https://rpc.idep.sgtstake.com", "https://services.staketab.com/idep-rpc"],
     "snapshot_provider": "",
     "sdk_version": "0.45.4",
     "coin_type": "118",
