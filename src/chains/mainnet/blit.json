@@ -1,0 +1,19 @@
+{
+    "chain_name": "blit",
+    "api": [
+        "http://api.testnet.blitchain.net"
+    ],
+    "rpc": ["http://rpc.testnet.blitchain.net"],
+    "sdk_version": "0.50.1",
+    "coin_type": "118",
+    "min_tx_fee": "1",
+    "addr_prefix": "dys",
+    "logo": "/logos/dyson.png",
+    "assets": [{
+        "base": "ublit",
+        "symbol": "BLIT",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/dyson.png"
+    }]
+}
